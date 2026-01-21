@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+ Charley Muhren
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  Blauw
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+ Surface plane
  
 </details>
 
@@ -36,15 +36,31 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  https://www.milli.agency/
+  
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+ Milly agency (homepage)
+  <img src="https://www.milli.agency/>
+
+
+<img width="499" height="737" alt="Screenshot 2026-01-21 at 17 33 28" src="https://github.com/user-attachments/assets/a12c0b55-885f-41ce-97fe-9da20e344463" />
+
+
+
+  
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Work
+  <img src="https://www.milli.agency/work)">
+
+<img width="499" height="736" alt="Screenshot 2026-01-21 at 17 32 41" src="https://github.com/user-attachments/assets/881cd1cc-145d-4f46-a8c1-ac8780e1268e" />
+<img width="501" height="731" alt="Screenshot 2026-01-21 at 17 32 33" src="https://github.com/user-attachments/assets/cf80053d-391b-40d4-bc41-9fdaed0da71d" />
+<img width="500" height="734" alt="Screenshot 2026-01-21 at 17 32 18" src="https://github.com/user-attachments/assets/701bcab9-c868-42ff-b606-930555ee0677" />
+<img width="499" height="739" alt="Screenshot 2026-01-21 at 17 32 11" src="https://github.com/user-attachments/assets/ccc1245a-7373-45a0-9d25-554fb98e48d7" />
+
+
+  
  
 </details>
 
