@@ -82,8 +82,8 @@ A. Ik heb de homepage getest met de HTML validator en daar komen 128 punten uit.
 - De error "Attribute transform-origin not allowed on element div at this point." betekent dat "transform-origin" geen HTML-attribuut is voor een <div> maar een CSS-property dus dat het als zodaning naar de stylesheet moet worden verplaatst.
 - De error "Duplicate ID w-node-_987fbb7e-48c6-1366-77d6-9c2152bf269b-7a4a2958" houdt in dat er twee keer dezelfde ID gevonden is op de pagina terwijl een ID maar één keer gebruikt mag worden.
 
-B. <html lang="nl"> is aanwezig in broncode
-C. Elke pagina heeft unieke <title> in browser tabs
+B. <html lang="nl"> is aanwezig in broncode  
+C. Elke pagina heeft unieke <title> in browser tabs  
 D. De viewport meta tag heeft geen user-scalable=no of restrictieve maximum-scale
   
 
