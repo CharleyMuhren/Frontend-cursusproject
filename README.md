@@ -87,8 +87,16 @@ C. Elke pagina heeft unieke <title> in browser tabs
 D. De viewport meta tag heeft geen user-scalable=no of restrictieve maximum-scale
   
 
-3. Keyboard:
+3. Keyboard:  
+A. De focus is niet visueel gemaakt, je ziet niet wat je aan het doen bent.
+B. De volgorde klopt aardig maar er wordt een link (naar 'Connect') overgeslagen.
+
 4. Mobile and touch:
+A. Bij horizontale rotatie  valt de content buiten beeld.  
+B. Je kan alleen verticaal scrollen (omhoog/omlaag), alle content past binnen de schermbreedte en er steken geen elementen uit aan de zijkant.  
+C. De knoppen zijn groot genoeg om makkelijk te raken, je kan niet per ongeluk op de verkeerde knop tikken en de icons hebben genoeg "tap area".  
+D. Er is genoeg ruimte tussen knoppen, je kunt scrollen zonder per ongeluk te klikken, er is genoeg ruimte rondom elk element.
+
 5. Headings:
 6. Lists: 
 7. Images:
