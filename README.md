@@ -72,8 +72,16 @@ Screenreader test:
 De website komt op de volgende punten niet goed uit de screenreader test. 
 
 WCAG checklist:
-1. Content
+1. Content: opzich is de content die er is helder, er wordt niet veel beschreven dus je moet het met vrij weinig informatie doen. De label, a en button elementen zijn beschrijvend en de teksten zijn links uitgelijnd.
 2. Global code:
+Ik heb de homepage getest met de HTML validator en daar komen 128 punten uit. Het zijn 5 punten die meerdere malen terugkomen:
+  > De melding  "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values." komt veelvuldig voor en houdt in dat bij het gebruik van 'Void elements' (lege elementen zoals <img>, <br>, <input>, <meta>) er geen closing tag nodig is. De slash kan problemen geven bij unquoted attributes dus moet verwijderd worden.
+  > De waarschuwing "The type attribute is unnecessary for JavaScript resources." houdt in dat type="text/javascript" overbodig is. In HTML5 is JavaScript de standaard script-taal. Browsers gaan er automatisch vanuit dat een <script>-tag JavaScript bevat, tenzij je iets anders aangeeft. Weglaten levert schonere en modernere HTML op.
+  > De error 'Element style not allowed as child of element div in this context. (Suppressing further errors from this subtree.)'  betekent dat het 'style' element op een plek staat waar het niet mag, namelijk in de <body> tussen andere content. Een <style>-element mag alleen in de <head> van je document, in een <noscript> binnen de <head>. Het is het handigst om een aparte stylesheet te maken (is deze website gemaakt in Webflow want dan schijnt dit vaker voor te komen).
+  > De error "Attribute transform-origin not allowed on element div at this point." betekent dat "transform-origin" geen HTML-attribuut is voor een <div> maar een CSS-property dus dat het als zodaning naar de stylesheet moet worden verplaatst.
+  > De error "Duplicate ID w-node-_987fbb7e-48c6-1366-77d6-9c2152bf269b-7a4a2958" houdt in dat er twee keer dezelfde ID gevonden is op de pagina terwijl een ID maar één keer gebruikt mag worden.
+  
+
 3. Keyboard:
 4. Mobile and touch:
 5. Headings:
