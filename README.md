@@ -69,6 +69,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Toegankelijkheidstest 1/2 (week 1)
 
 Screenreader test:
+De website komt op de volgende punten niet goed uit de screenreader test. 
 
 WCAG checklist:
 1. Content
