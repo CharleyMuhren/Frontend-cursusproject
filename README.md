@@ -91,7 +91,7 @@ D. De viewport meta tag heeft geen user-scalable=no of restrictieve maximum-scal
 A. De focus is niet visueel gemaakt, je ziet niet wat je aan het doen bent.
 B. De volgorde klopt aardig maar er wordt een link (naar 'Connect') overgeslagen.
 
-4. Mobile and touch:
+4. Mobile and touch:  
 A. Bij horizontale rotatie  valt de content buiten beeld.  
 B. Je kan alleen verticaal scrollen (omhoog/omlaag), alle content past binnen de schermbreedte en er steken geen elementen uit aan de zijkant.  
 C. De knoppen zijn groot genoeg om makkelijk te raken, je kan niet per ongeluk op de verkeerde knop tikken en de icons hebben genoeg "tap area".  
