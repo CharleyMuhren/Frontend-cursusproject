@@ -68,8 +68,24 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Toegankelijkheidstest 1/2 (week 1)
 
-<details>
-  <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
+Screenreader test:
+
+WCAG checklist:
+1. Content
+2. Global code:
+3. Keyboard:
+4. Mobile and touch:
+5. Headings:
+6. Lists: 
+7. Images:
+8. Media (Video and Audio):
+9. Controls:
+10. Appearance:
+11. Animation: 
+12. Color controst: 
+
+
+
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
