@@ -97,7 +97,7 @@ B. Je kan alleen verticaal scrollen (omhoog/omlaag), alle content past binnen de
 C. De knoppen zijn groot genoeg om makkelijk te raken, je kan niet per ongeluk op de verkeerde knop tikken en de icons hebben genoeg "tap area".  
 D. Er is genoeg ruimte tussen knoppen, je kunt scrollen zonder per ongeluk te klikken, er is genoeg ruimte rondom elk element.
 
-5. Headings:
+5. Headings:  
 A. Er zijn geen headings te vinden, alleen div's en 'a' elementen die linken naar andere pagina's.  
 B. Er zijn dus ook niet meerdere H1 elementen te vinden.  
 C. Ze zijn dus ook niet in een logosche volgorde geschreven.  
