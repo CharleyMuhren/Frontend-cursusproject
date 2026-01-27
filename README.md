@@ -114,10 +114,29 @@ En in het geval van een decoratieve afbeelding bevatten ze null alt (empty) attr
 De video's op de website zijn embedded en worden niet vanzelf afgespeeld. Het is niet bij alle video's mogelijk de ondertiteling in YouTube aan te zeten maar als het niet kan, is het ook niet nodig want die video's bevatten alleen beeld en muziek. Bij de video's met gesproken tekst is ondertiteling wel mogelijk.Ik kan nergens een transcript vinden.
 
 
-9. Controls:
-10. Appearance:
-11. Animation: 
-12. Color controst: 
+9. Controls:  
+De a elementen worden gebruikt voor links.  
+Het is op de mobiele versie op het eerste gezicht lastig om te zien wat wel en niet klikbaar is.  
+Op de desktop versie zie je wel dat de verschillende vlakken met de navigatie (work, about, community en contact) klikbaar zijn doordat de vlakken van kleur veranderen bij de hover. De pijltjes op de 'work' pagina zijn alleen door de vorm (een pijl) duidelijk klikbaar.  
+Er zijn nergens focus states te zien.  
+Voor buttons zijn geen button elements gebruikt.  
+Er zijn geen skip-links gebruikt.  
+Er wordt gebruik gemaakt van target_blank maar zonder indicator. 
+
+10. Appearance:  
+De website heeft geen dark mode.  
+High-contrast mode wordt niet gesupport.
+Tekst grootte op 200 % zetten, zorgt ervoor dat de navigatie breekt, content verdwijnt of wordt afgesneden en buttons elkaar overlappen.  
+Kleur is niet de enige manier waarop informatie wordt overgebracht, zo hebben inputvelden labels.
+
+11. Animation:   
+Over het algemeen zijn de animaties in een goed tempo. Hun video reel flitst wel erg.
+Video's kunnen gepauzeerd worden (de video's zijn embedded en staan op YouTube).  
+Met de optie 'prefers-reduced motion' aan, blijven de animaties hetzelfde!  
+
+12. Color controst:  
+Het contrast is over het algemeen goed tot heel goed.  
+Het zwart op het geel is goed en de kleur bij het selecteren van tekst is ook geel waardoor ook dan de tekst goed te lezen is. 
 
 </details>
 
