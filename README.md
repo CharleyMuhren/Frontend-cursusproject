@@ -124,7 +124,7 @@ D. Er worden dus ook geen heading levels overgeslagen.
 
 ## Breakdownschets (week 1)
 
-<details>
+<details open>
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
@@ -144,7 +144,7 @@ D. Er worden dus ook geen heading levels overgeslagen.
 
 ## Voortgang 1 (week 2)
 
-<details>
+<details open>
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
