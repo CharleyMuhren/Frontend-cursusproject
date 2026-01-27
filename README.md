@@ -144,8 +144,13 @@ Het zwart op het geel is goed en de kleur bij het selecteren van tekst is ook ge
 
 
   ### Bevindingen
-  <details open>
-  Lijst met je bevindingen die in de test naar voren kwamen:
+  <details open>  
+  Mijn belangrijkste bevindingen zijn:  
+  De website is niet semantisch en niet toegankelijk.  
+  De html bevat geen headings en andere semantische elementen, zoals buttons, sections etc.  
+  De dark en high-contrast mode wordt niet gesupport en ook prefers-reduced motion heeft geen effect.   
+  Ik heb vooralsnog geen idee of het te doen is hier een wel toegankelijke versie van te bouwen maar ik wil het zeker proberen!
+  
 
 </details>
 
