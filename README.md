@@ -103,8 +103,13 @@ B. Er zijn dus ook niet meerdere H1 elementen te vinden.
 C. Ze zijn dus ook niet in een logische volgorde geschreven.  
 D. Er worden dus ook geen heading levels overgeslagen.  
 
-6. Lists: 
-7. Images:
+6. Lists:   
+Er bevinden zich geen list items op deze pagina, zowel geen <ul> als <ol> en <dl>.
+
+7. Images:  
+De homepage bevat geen afbeeldingen, wel een video. Op de andere pagina's staan wel afbeeldingen die een alt text bevatten.  
+En in het geval van een decoratieve afbeelding bevatten ze null alt (empty) attributen. Er staan geen complexe afbeeldingen of afbeeldingen die tekst bevatten op (behalve het logo).
+
 8. Media (Video and Audio):
 9. Controls:
 10. Appearance:
