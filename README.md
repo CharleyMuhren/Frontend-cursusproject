@@ -13,7 +13,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Jij
 
 <details open>
-  <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
  Charley Muhren
@@ -48,7 +47,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
 
-  
+
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Work
@@ -112,10 +111,11 @@ D. Er worden dus ook geen heading levels overgeslagen.
 11. Animation: 
 12. Color controst: 
 
-
+</details>
 
 
   ### Bevindingen
+  <details open>
   Lijst met je bevindingen die in de test naar voren kwamen:
 
 </details>
