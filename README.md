@@ -104,13 +104,16 @@ C. Ze zijn dus ook niet in een logische volgorde geschreven.
 D. Er worden dus ook geen heading levels overgeslagen.  
 
 6. Lists:   
-Er bevinden zich geen list items op deze pagina, zowel geen <ul> als <ol> en <dl>.
+Er bevinden zich geen list items op deze pagina, geen ul, ol en dl/
 
 7. Images:  
 De homepage bevat geen afbeeldingen, wel een video. Op de andere pagina's staan wel afbeeldingen die een alt text bevatten.  
-En in het geval van een decoratieve afbeelding bevatten ze null alt (empty) attributen. Er staan geen complexe afbeeldingen of afbeeldingen die tekst bevatten op (behalve het logo).
+En in het geval van een decoratieve afbeelding bevatten ze null alt (empty) attributen. Er staat een complexe afbeelding op (een grafiek) met een alt die niet de tekst uit de afbeelding bevat.  De afbeeldingen die tekst bevatten, zoals het logo, bevatten wel de tekst in de alt description.
 
-8. Media (Video and Audio):
+8. Media (Video and Audio):  
+De video's op de website zijn embedded en worden niet vanzelf afgespeeld. Het is niet bij alle video's mogelijk de ondertiteling in YouTube aan te zeten maar als het niet kan, is het ook niet nodig want die video's bevatten alleen beeld en muziek. Bij de video's met gesproken tekst is ondertiteling wel mogelijk.Ik kan nergens een transcript vinden.
+
+
 9. Controls:
 10. Appearance:
 11. Animation: 
