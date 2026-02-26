@@ -161,7 +161,7 @@ Het zwart op het geel is goed en de kleur bij het selecteren van tekst is ook ge
 <details open>
   <summary>Mijn eerste breakdownschets</summary>
 
-  ### de hele pagina: 
+  ### De hele pagina: 
 
   ![Breakdownschets-MillyAgency-Homepage](https://github.com/user-attachments/assets/43cf6019-99e5-4f3f-9900-d6abdcae46b9)
 
