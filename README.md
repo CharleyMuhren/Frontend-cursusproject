@@ -159,10 +159,10 @@ Het zwart op het geel is goed en de kleur bij het selecteren van tekst is ook ge
 ## Breakdownschets (week 1)
 
 <details open>
-  <summary>Mijn eerste breakdownschets<sup>e</sup> werkgroep</summary>
+  <summary>Mijn eerste breakdownschets</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+
   ![Breakdownschets-MillyAgency-Homepage](https://github.com/user-attachments/assets/43cf6019-99e5-4f3f-9900-d6abdcae46b9)
 
 
