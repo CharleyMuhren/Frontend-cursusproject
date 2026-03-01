@@ -71,7 +71,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 Screenreader test:  
 De website komt op de volgende punten niet goed uit de screenreader test:  
 De website lijkt in een Webflow gebouwd te zijn en er lijkt weinig rekening gehouden te zijn met semantiek.  
-De webside bevat geen headings en er zijn geen skip links. Ook bevatten veel iconen geen 'alt text' waardoor het voor imenad die blind is, niet te achterhalen is welk icoon er gebruikt is. 
+De webside bevat geen headings en er zijn geen skip links. Ook bevatten veel iconen geen 'alt text' waardoor het voor iemand die blind is, niet te achterhalen is welk icoon er gebruikt is. 
 
 WCAG checklist:
 1. Content: op zich is de content die er is helder, er wordt niet veel beschreven dus je moet het met vrij weinig informatie doen. De label, a en button elementen zijn beschrijvend en de teksten zijn links uitgelijnd.
