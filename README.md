@@ -161,9 +161,15 @@ Het zwart op het geel is goed en de kleur bij het selecteren van tekst is ook ge
 <details open>
   <summary>Mijn eerste breakdownschets</summary>
 
-  ### De hele pagina: 
+  ### De hele pagina (versie 1): 
 
   ![Breakdownschets-MillyAgency-Homepage](https://github.com/user-attachments/assets/43cf6019-99e5-4f3f-9900-d6abdcae46b9)
+
+  ### De hele pagina (versie 2): 
+  In de tweede schets heb ik het contact gedeelte toegevoegd. Dit gedeelte staat verstopt maar bevindt zich wel op dezelfde pagina.
+
+  ![Breakdownschets2](https://github.com/user-attachments/assets/38c1b507-a5f4-4cbd-b378-59f78f20961c)
+
 
 
   ### dynamisch deel (bijv menu): 
