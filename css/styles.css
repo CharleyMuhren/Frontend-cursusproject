@@ -1,0 +1,26 @@
+
+:root {
+    --font-primary: 'forma-djr-micro', sans-serif;
+    --color-text: #000;
+    --color-text-visited:#000;
+    --color-text-button: white;
+    --color-background-brand: rgb(249 232 100);
+
+     --color-background-primary: #fff; /* wit voor list items */
+    --color-border: #000; /* zwart voor de gap/border truc */
+
+    
+}
+/* ALGEMENE STYLING */
+
+
+body {
+    font-family: var(--font-primary);
+    color: var(--color-text);
+    
+}
+
+
+
+
+
